@@ -1,1 +1,1 @@
-its an online tic tac toe game for entertainment craeted with HTML, CSS, JavaScript.
+Its an online tic tac toe game for entertainment created  with HTML, CSS, JavaScript.
